@@ -1,0 +1,17 @@
+{
+    "name": "poetsenone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Rodrigo Fuenzalida, Pablo Impallari"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/poetsenone-bower.git"
+    },
+    "description": "Poetsen One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
